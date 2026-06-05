@@ -27,7 +27,7 @@ market.
 
 ## B. Project Links
 
-- **Notebook:** [Google Colab — AmaliTech Market Gap Analysis](https://github.com/lawrykoomson/The-Market-Gap-Analysis)
+- **Notebook:** [Google Colab — AmaliTech Market Gap Analysis](https://colab.research.google.com/drive/1yqRwxSJzK68tQU7KMyR-HQZTOZzcl2eo?usp=sharing)
 - **Dashboard:** [Live Dashboard — Looker Studio](https://datastudio.google.com/reporting/3658f873-fed3-49b0-959e-6c950392e7c1)
 - **Presentation:** [Slide Deck — Google Slides](https://docs.google.com/presentation/d/1mrB46Uew1bit1C0PbzkABV9D5sW382pfphQOwjCegmw/edit?usp=sharing)
 
