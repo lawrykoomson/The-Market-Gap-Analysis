@@ -1,35 +1,38 @@
 # 🎯 The Sugar Trap — Market Gap Analysis
-### Submission by: Lawrence Koomson | BSc. IT — Data Science & Analytics | UCC 2026
+### Analyst: Lawrence Koomson | BSc. IT — Data Science & Analytics | UCC 2026
 ### Client: Helix CPG Partners | AmaliTech Capstone Challenge 2026
 
 ---
 
 ## A. Executive Summary
 
-Analysis of 109,564 food products from the Open Food Facts database reveals
-a clear and actionable market gap in the healthy snacking space. The snack
-market is heavily oversaturated with High Sugar + Low Protein products
-(11,946 products), while the Blue Ocean of High Protein + Low Sugar remains
-underserved despite strong consumer demand for healthier options.
+Analysis of 109,564 food products from the Open Food Facts database 
+reveals a clear and actionable market gap in the healthy snacking space. 
+The snack market is heavily oversaturated with High Sugar + Low Protein 
+products (11,946 products), while the Blue Ocean of High Protein + Low 
+Sugar remains underserved despite strong consumer demand for healthier 
+options.
 
-The biggest market opportunity lies in the Dairy & Eggs category, where
-products averaging 20.2g of protein and just 2.5g of sugar per 100g exist
-but are not being actively developed as consumer snack products. Health
-validation using Nutri-Score confirms Blue Ocean products score A/B
-(healthy) while 54.1% of oversaturated products score E (worst) — proving
+The biggest market opportunity lies in the Dairy & Eggs category, where 
+products averaging 20.2g of protein and just 2.5g of sugar per 100g exist 
+but are not being actively developed as consumer snack products. Health 
+validation using Nutri-Score confirms Blue Ocean products score A/B 
+(healthy) while 54.1% of oversaturated products score E (worst) — proving 
 the gap is real, measurable and actionable.
 
-R&D teams should focus on Soy/Soya, Peanuts and Whey as the top three
-protein sources driving high-protein product performance in the current
+R&D teams should focus on Soy/Soya, Peanuts and Whey as the top three 
+protein sources driving high-protein product performance in the current 
 market.
 
 ---
 
 ## B. Project Links
 
-- **Notebook:** [Google Colab — AmaliTech Market Gap Analysis](https://colab.research.google.com/drive/1yqRwxSJzK68tQU7KMyR-HQZTOZzcl2eo?usp=sharing)
-- **Dashboard:** [Live Dashboard — Looker Studio](https://datastudio.google.com/reporting/3658f873-fed3-49b0-959e-6c950392e7c1)
-- **Presentation:** [Slide Deck — Google Slides](https://docs.google.com/presentation/d/1mrB46Uew1bit1C0PbzkABV9D5sW382pfphQOwjCegmw/edit?usp=sharing)
+| Deliverable | Link |
+|---|---|
+| 📓 Notebook | [Google Colab — AmaliTech Market Gap Analysis](https://colab.research.google.com/drive/1yqRwxSJzK68tQU7KMyR-HQZTOZzcl2eo?usp=sharing) |
+| 📊 Dashboard | [Live Dashboard — Looker Studio](https://datastudio.google.com/reporting/3658f873-fed3-49b0-959e-6c950392e7c1) |
+| 📑 Presentation | [Slide Deck — Google Slides](https://docs.google.com/presentation/d/1mrB46Uew1bit1C0PbzkABV9D5sW382pfphQOwjCegmw/edit?usp=sharing) |
 
 ---
 
@@ -63,8 +66,8 @@ health positioning in Helix CPG Partners go-to-market strategy.
 | Finding | Value |
 |---|---|
 | Total products analysed | 109,564 |
-| Blue Ocean products (High Protein + Low Sugar) | 11,869 |
-| Oversaturated products (High Sugar + Low Protein) | 11,946 |
+| Blue Ocean (High Protein + Low Sugar) | 11,869 products |
+| Oversaturated (High Sugar + Low Protein) | 11,946 products |
 | Best opportunity category | Dairy & Eggs |
 | Target protein | 20.2g per 100g |
 | Target max sugar | 4.3g per 100g |
@@ -94,7 +97,6 @@ health positioning in Helix CPG Partners go-to-market strategy.
 | File | Description |
 |---|---|
 | AmaliTech_Market_Gap_Analysis.ipynb | Main Jupyter notebook |
-| AmaliTech_Market_Gap_Analysis.html | HTML export of notebook |
 | AmaliTech_Complete_Dashboard.png | Complete analysis dashboard |
 | story1_distributions.png | Data cleaning distributions |
 | story2_categories.png | Category distribution chart |
@@ -111,11 +113,9 @@ health positioning in Helix CPG Partners go-to-market strategy.
 
 - [x] GitHub Repo is Public
 - [x] .ipynb notebook uploaded
-- [x] HTML export uploaded
-- [x] Raw dataset NOT uploaded
-- [x] Code uses relative paths
 - [x] Dashboard publicly accessible
 - [x] Presentation publicly accessible
 - [x] README updated with Executive Summary
 - [x] Stories 1-4 completed
+- [x] Bonus Story 5 completed
 - [x] Candidate's Choice completed and explained
