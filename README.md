@@ -26,8 +26,8 @@ sources driving high-protein product performance in the current market.
 ## B. Project Links
 
 - **Link to Notebook:** [Google Colab Notebook](https://colab.research.google.com/drive/1yqRwxSJzK68tQU7KMyR-HQZTOZzcl2eo?usp=sharing)
-- **Link to Dashboard:** [AmaliTech Complete Dashboard](https://github.com/lawrykoomson/The-Market-Gap-Analysis/blob/main/AmaliTech_Complete_Dashboard.png)
-- **Link to Presentation:** [View Analysis Charts on GitHub](https://github.com/lawrykoomson/The-Market-Gap-Analysis)
+- **Link to Dashboard:** [AmaliTech Complete Dashboard](https://datastudio.google.com/reporting/3658f873-fed3-49b0-959e-6c950392e7c1)
+- **Link to Presentation:** [View Analysis Charts on GitHub](https://docs.google.com/presentation/d/1mrB46Uew1bit1C0PbzkABV9D5sW382pfphQOwjCegmw/edit?usp=sharing)
 
 ---
 
